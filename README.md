@@ -7,12 +7,19 @@ This doesn't particularly mean that Punch-Out!! Wii is the only system that may 
 The conversions **only** work when your numbers in groups of three. Examples:
 
 Input: 1
+---
+
 Output: Nothing
 
+
 Input: 1 2 3 4
+---
+
 Output: Hex conversion for 1, -3, 2.
 
 Input: 1 2 3
+---
+
 Output: Hex conversion for 1, -3, 2.
 
 Please also note that these conversions are only one-way. You cannot convert hex to numbers using this program.
